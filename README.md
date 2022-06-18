@@ -1,6 +1,6 @@
 - 👋 Hello, this is Unmesh
-- 👨🏻‍💻 Currently working on Android Platform Projects for Surface Duo in Microsoft
-- 📫 You can reach out to me on LinkedIn (https://www.linkedin.com/in/unmeshp) or Twitter (@UnmeshPadhye). 
+- 👨🏻‍💻 Currently working at Microsoft as a Software Engineer on Android Platform Projects for Surface Duo
+- 📫 You can reach out to me on LinkedIn (https://www.linkedin.com/in/unmeshp) or Twitter (@UnmeshPadhye)
 
 <!---
 UnmeshPadhye/UnmeshPadhye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

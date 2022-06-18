@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @UnmeshPadhye
-- 👨🏻‍💻 Working on some challeging engineering problems in Enterprise distributed systems.
-- Currently learning dynamic programming and graph algorithms.
-- 👀 Looking to collaborate on any project that demands solving some complex problems. 
+- 👋 Hello, this is @UnmeshPadhye
+- 👨🏻‍💻 Currently working on Android Platform Projects for Surface Duo in Microsoft
 - 📫 You can reach out to me on LinkedIn (https://www.linkedin.com/in/unmeshp) or Twitter (@UnmeshPadhye). 
 
 <!---

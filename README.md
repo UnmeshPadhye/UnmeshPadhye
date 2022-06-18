@@ -1,4 +1,4 @@
-- 👋 Hello, this is @UnmeshPadhye
+- 👋 Hello, this is Unmesh
 - 👨🏻‍💻 Currently working on Android Platform Projects for Surface Duo in Microsoft
 - 📫 You can reach out to me on LinkedIn (https://www.linkedin.com/in/unmeshp) or Twitter (@UnmeshPadhye). 
 
